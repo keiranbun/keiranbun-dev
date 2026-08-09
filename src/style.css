@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pink-orchid: #d2b7e5;
+  --color-wisteria: #c19ee0;
+  --color-bright-lavender: #b185db;
+  --color-lavender-purple: #9163cb;
+  --color-deep-lilac: #7251b5;
+}
