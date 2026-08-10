@@ -1,7 +1,14 @@
+// import LeftPanel from "../components/LeftPanel/LeftPanel";
+// import RightPanel from "../components/RightPanel/RightPanel";
+
 const Homepage = () => {
   return (
-    <div className="flex flex-col items-center mt-5">
-      <h1 className="text-3xl">keiranbun.dev is still being built</h1>
+    <div>
+      <div className="flex flex-row justify-center mt-5">
+        {/* <LeftPanel />
+        <RightPanel /> */}
+        <p className="text-2xl">keiranbun.dev is still being built</p>
+      </div>
     </div>
   );
 };
