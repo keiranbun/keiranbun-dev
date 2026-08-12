@@ -1,7 +1,7 @@
 import LeftPanel from "../components/LeftPanel/LeftPanel";
 import RightPanel from "../components/RightPanel/RightPanel";
 
-const isDevEnv = import.meta.env.MODE;
+const isDevEnv = import.meta.env.DEV;
 
 const Homepage = () => {
   return (
